@@ -34,17 +34,8 @@ The visual user interface or printing out the database can be freely chosen, but
 # Program
 Uses `pandas` library.
 
-For now, lists books with this command:
+Start the program with command:
 ```
 python3 my_library.py library.txt
 ```
 
-For now, adds a book to list (not to file) with this command:
-```
-python3 my_library.py library.txt 'Idiot/Fyodor Dostoyevsky/9780850670356/1971'
-```
-
-For now, adds a book to list and to file with this command:
-```
-python3 my_library.py library.txt 'Yhteinen tehtävämme : kansanvaltaisen muutoksen strategia/Paavo Väyrynen/9789510159316/1989' update_file
-```
