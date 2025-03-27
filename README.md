@@ -22,7 +22,7 @@ In the program Main menu user can choose from 3 options
 * Add new book
   * User will be asked for data of the new book:
     - title
-    - name
+    - author
     - ISBN
     - year
   * Book entry will be shown
